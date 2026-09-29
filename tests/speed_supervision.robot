@@ -14,7 +14,7 @@ Overspeed Triggers Brake
     [Tags]    smoke
     Set Speed Limit    80
     Set Train Speed    95
-    Supervision Status Should Be    WARNING
+    Supervision Status Should Be    BRAKE
 
 Speed Boundaries Around The Limit
     [Documentation]    Boundary value analysis: data-driven with a template keyword.
